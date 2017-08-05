@@ -1,0 +1,43 @@
+body{
+	background-color: #fff;
+	overflow-x:hidden;
+}
+
+h1{
+	font-family:"Lucida Console",Helvetica,sans-serif;
+	margin:0px;
+	padding:0px;
+}
+
+#printcontainer{
+	position:absolute;
+	top:2px;
+	right:4px;
+	width:300px;
+	//height:400px;
+	background-color:#777;
+	color:#fff;
+	border:1px solid #000;
+	padding:5px;
+	border-radius:5px;
+}
+
+h1.pc{
+	border:1px solid #000;
+	border-radius:5px;
+	background-color:#303030;
+	margin-bottom:5px;
+	padding:4px 0px 0px 0px;
+}
+
+p{
+	font-family:"Lucida Console",Helvetica,sans-serif;
+	//font-weight:900;
+	//font-size:large;
+	letter-spacing:-1px;
+}
+
+p#pinnard{
+	margin:0px;
+	padding:0px;
+}
